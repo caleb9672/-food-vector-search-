@@ -13,7 +13,7 @@ Ce projet utilise la recherche vectorielle pour recommander des plats en fonctio
 ## 🔑 API & Configuration
 Le projet utilise les API suivantes :
 
-Hugging Face (InferenceClient)
+Hugging Face (InferenceClient) et 
 Google API (si nécessaire)
 
 ## 📊 Exemples de Résultats
