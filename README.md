@@ -28,5 +28,5 @@ Recommandations :
 - Top 4 Recommended Food Name: Pad Thai
 - Top 5 Recommended Food Name: Vegetable Stir Fry
 
-📜 Licence
+📜 Licence : 
 Ce projet est sous licence MIT – vous pouvez l'utiliser, le modifier et le partager librement.
