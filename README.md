@@ -25,8 +25,8 @@ Hugging Face (InferenceClient)
 Google API (si nécessaire)
 
 Ajoutez vos clés API dans le notebook :
-huggingface_api = "VOTRE_CLE"
-gemini_api = "VOTRE_CLE"
+- huggingface_api = "VOTRE_CLE"
+- gemini_api = "VOTRE_CLE"
 
 
 ## 📊 Exemples de Résultats
@@ -35,11 +35,11 @@ Une fois le notebook exécuté, vous obtiendrez des recommandations basées sur 
 query = "I want a dish with egg, butter, and rice."
 
 Recommandation :
-Top 1 Recommended Food Name: Salted Roasted Rice Crackers
-Top 2 Recommended Food Name: Garlic Bread
-Top 3 Recommended Food Name: Salted Roasted Mixed Seeds
-Top 4 Recommended Food Name: Pad Thai
-Top 5 Recommended Food Name: Vegetable Stir Fry
+- Top 1 Recommended Food Name: Salted Roasted Rice Crackers
+- Top 2 Recommended Food Name: Garlic Bread
+- Top 3 Recommended Food Name: Salted Roasted Mixed Seeds
+- Top 4 Recommended Food Name: Pad Thai
+- Top 5 Recommended Food Name: Vegetable Stir Fry
 
 📜 Licence
 Ce projet est sous licence MIT – vous pouvez l'utiliser, le modifier et le partager librement.
