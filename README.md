@@ -5,7 +5,7 @@
 Ce projet utilise la recherche vectorielle pour recommander des plats en fonction de la requête de l'utilisateur ou à partir des informations extraites d'un menu alimentaire en PDF.
 
 ## Fonctionnalités
-- 📄 Extraction de texte depuis un fichier PDF
+- 📄 Extraction de texte depuis un fichier python 'foodDataSet' contenant différents types menus dans un dictionnaire 'foodItems'
 - 🧠 Génération d'embeddings avec Hugging Face
 - 🔍 Recherche et recommandation via `chromadb`
 - 🍽️ Suggestion de plats basée sur la similarité des descriptions
