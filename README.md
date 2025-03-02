@@ -14,9 +14,9 @@ Ce projet utilise la recherche vectorielle pour recommander des plats en fonctio
 
 ## 🛠️ Installation
 Installez les dépendances nécessaires avant d'exécuter le notebook :
-```bash
+
 pip install PyPDF2 chromadb
-```bash
+
 
 ## 🔑 API & Configuration
 Le projet utilise les API suivantes :
